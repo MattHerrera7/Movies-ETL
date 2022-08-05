@@ -1,0 +1,2 @@
+# Import Note About Large Files:
+The ratings.csv file needed for this assignment is too large to be pushed to git-hub (at the free tier level). I have added this file (ratings.csv) to the class repository .gitignore file and added it to my local folder. This allows me to use the file on my computer but prevents the file from being pushed to github (which generates an error). Please plan to download the ratings.csv as directed in Module 8.2.2 Extract the Kaggle Data.
